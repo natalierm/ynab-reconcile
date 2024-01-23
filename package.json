@@ -1,0 +1,18 @@
+{
+  "name": "ts-bankrec",
+  "version": "1.0.0",
+  "description": "typescript version of bank reconciliation application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "run": "ts-node ./app/app.ts"
+  },
+  "author": "Matt Natalier",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

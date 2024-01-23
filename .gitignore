@@ -1,0 +1,10 @@
+# Built/compiled files
+dist
+js
+
+# Dependency directories
+node_modules
+
+# IDE-specific files
+.idea
+.vscode
