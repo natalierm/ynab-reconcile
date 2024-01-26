@@ -11,3 +11,4 @@ node_modules
 
 # Ignore specific configuration files.
 config.json
+config.ts

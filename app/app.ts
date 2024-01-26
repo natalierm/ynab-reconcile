@@ -1,5 +1,16 @@
-import * as config from '../config.json';
+import { oauth } from '../config';
+
 let message: string = "Hello World";
 console.log(message);
-console.log(config.Accounts[0].accountName);
+
+// let's start by authenticating into ynab
+
+
+// choose budget 2020
+
+//  get the accounts
+
+// get the transactions for the last 30 days for each account.
+
+
 
